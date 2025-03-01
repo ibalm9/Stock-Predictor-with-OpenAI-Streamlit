@@ -1,0 +1,36 @@
+.stock-up {
+    color: #00C853;
+    font-weight: bold;
+}
+
+.stock-down {
+    color: #FF4B4B;
+    font-weight: bold;
+}
+
+.prediction-card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+}
+
+.loading-spinner {
+    text-align: center;
+    padding: 20px;
+}
+
+.error-message {
+    color: #FF4B4B;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #FFE5E5;
+    margin: 10px 0;
+}
+
+.stock-chart {
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #F8F9FA;
+}
